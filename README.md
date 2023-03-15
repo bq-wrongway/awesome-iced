@@ -19,13 +19,25 @@
 - [iced-audio](https://github.com/iced-rs/iced_audio) An extension to the iced GUI library with useful widgets for audio applications such as VST / LV2 plugins.
 
 
-### Tutorials
+
+## Tutorials
 - GUI in Rust with iced #1: [Getting Started](https://nikolish.in/gs-with-iced-1)
 - GUI in Rust with iced #2: [Composable Layout](https://nikolish.in/gs-with-iced-1)
 - How to build a simple [Rust frontend web app](https://blog.logrocket.com/iced-rs-tutorial-rust-frontend-web-app/)	
 - Iced [book](https://book.iced.rs/) (incomplete atm)	
 - How to use custom themes for [Iced GUI library](https://www.youtube.com/watch?v=Bl02RY3FXJU)
 
+## Learning examples
+
+-tbd 
+
+## Made with icedrs
+
+- [Cryptowatch Desktop](https://cryptowat.ch/apps/desktop) The most powerful trading terminal in crypto
+- [Sniffnet](https://github.com/GyulyVGC/sniffnet) Application to comfortably monitor your network traffic 
+
+
+## Contribute 
 
 
 
