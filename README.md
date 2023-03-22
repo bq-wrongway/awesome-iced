@@ -1,3 +1,8 @@
+
+### This repo is not updated anymore please check 
+### https://github.com/emann/awesome-iced for up-to date list.
+
+
 <h1 align="center">Awesome-icedrs</h1>
 <h3 align="center">This repository contains useful icedrs links, tools, libraries etc </h3>
 
